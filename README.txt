@@ -1,0 +1,1 @@
+parsing ukrain word. Sript python
